@@ -32,7 +32,7 @@ Available in **Light (Canonical)** and **Dark (Heretic)** variants.
 Installation via use-package (Straight.el / Quelpa)
 
 If you use straight.el or quelpa, add this to your configuration:
-Snippet de código
+
 
 (use-package temple-os-theme
   :straight (:host github :repo "Senka07/temple-os-emacs-theme")
